@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bettartaquatic.github.io/sitemap.xml
